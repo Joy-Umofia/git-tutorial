@@ -1,1 +1,1 @@
-console.log('newzeland')
+console.log('newzeland place')
